@@ -1,0 +1,442 @@
+{
+    "MaxTotalHashRate": 1904.317,
+    "CurrentTotalHashRate": 1867.143,
+    "LastUpdateDate": "Feb 17 2018 15:01",
+    "Miners": [
+        {
+            "miner": "Miner1",
+            "MinerID": 1012,
+            "cards": 8,
+            "IPAddress": "10.0.1.61",
+            "maxhash": 246.224,
+            "hash": 234.851,
+            "Min30": 0,
+            "Hr2": 0,
+            "Hr6": 0,
+            "D1": 0,
+            "D2": 2,
+            "gpus": [
+                {
+                    "hash": 29.113,
+                    "temp": 51,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.05,
+                    "temp": 56,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.055,
+                    "temp": 62,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.056,
+                    "temp": 57,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.085,
+                    "temp": 56,
+                    "fan": 83
+                },
+                {
+                    "hash": 30.116,
+                    "temp": 49,
+                    "fan": 83
+                },
+                {
+                    "hash": 30.804,
+                    "temp": 46,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.568,
+                    "temp": 55,
+                    "fan": 83
+                }
+            ]
+        },
+        {
+            "miner": "Miner11",
+            "MinerID": 1020,
+            "cards": 8,
+            "IPAddress": "10.0.1.37",
+            "maxhash": 232.144,
+            "hash": 223.92,
+            "Min30": 0,
+            "Hr2": 0,
+            "Hr6": 0,
+            "D1": 0,
+            "D2": 1,
+            "gpus": [
+                {
+                    "hash": 28.283,
+                    "temp": 54,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.991,
+                    "temp": 50,
+                    "fan": 83
+                },
+                {
+                    "hash": 21.699,
+                    "temp": 46,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.004,
+                    "temp": 54,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.98,
+                    "temp": 63,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.983,
+                    "temp": 39,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.985,
+                    "temp": 47,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.991,
+                    "temp": 50,
+                    "fan": 83
+                }
+            ]
+        },
+        {
+            "miner": "Miner12",
+            "MinerID": 1016,
+            "cards": 8,
+            "IPAddress": "10.0.1.63",
+            "maxhash": 242.6,
+            "hash": 240.667,
+            "Min30": 0,
+            "Hr2": 0,
+            "Hr6": 0,
+            "D1": 1,
+            "D2": 2,
+            "gpus": [
+                {
+                    "hash": 30.009,
+                    "temp": 59,
+                    "fan": 83
+                },
+                {
+                    "hash": 30.019,
+                    "temp": 66,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.996,
+                    "temp": 57,
+                    "fan": 83
+                },
+                {
+                    "hash": 30.017,
+                    "temp": 51,
+                    "fan": 83
+                },
+                {
+                    "hash": 30.287,
+                    "temp": 51,
+                    "fan": 83
+                },
+                {
+                    "hash": 30.012,
+                    "temp": 58,
+                    "fan": 83
+                },
+                {
+                    "hash": 30.012,
+                    "temp": 57,
+                    "fan": 83
+                },
+                {
+                    "hash": 30.31,
+                    "temp": 60,
+                    "fan": 83
+                }
+            ]
+        },
+        {
+            "miner": "Miner13",
+            "MinerID": 1021,
+            "cards": 8,
+            "IPAddress": "10.0.1.5",
+            "maxhash": 232.216,
+            "hash": 231.843,
+            "Min30": 0,
+            "Hr2": 0,
+            "Hr6": 0,
+            "D1": 0,
+            "D2": 0,
+            "gpus": [
+                {
+                    "hash": 28.978,
+                    "temp": 59,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.969,
+                    "temp": 58,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.995,
+                    "temp": 58,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.982,
+                    "temp": 54,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.99,
+                    "temp": 51,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.972,
+                    "temp": 56,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.981,
+                    "temp": 53,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.972,
+                    "temp": 60,
+                    "fan": 83
+                }
+            ]
+        },
+        {
+            "miner": "Miner14",
+            "MinerID": 1014,
+            "cards": 7,
+            "IPAddress": "10.0.1.88",
+            "maxhash": 219.429,
+            "hash": 207.581,
+            "Min30": 0,
+            "Hr2": 0,
+            "Hr6": 0,
+            "D1": 0,
+            "D2": 0,
+            "gpus": [
+                {
+                    "hash": 31.292,
+                    "temp": 42,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.976,
+                    "temp": 40,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.992,
+                    "temp": 55,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.997,
+                    "temp": 53,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.013,
+                    "temp": 61,
+                    "fan": 83
+                },
+                {
+                    "hash": 31.321,
+                    "temp": 44,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.988,
+                    "temp": 68,
+                    "fan": 83
+                }
+            ]
+        },
+        {
+            "miner": "Miner21",
+            "MinerID": 1017,
+            "cards": 8,
+            "IPAddress": "10.0.1.50",
+            "maxhash": 232.096,
+            "hash": 232.04,
+            "Min30": 0,
+            "Hr2": 0,
+            "Hr6": 0,
+            "D1": 0,
+            "D2": 0,
+            "gpus": [
+                {
+                    "hash": 28.939,
+                    "temp": 60,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.972,
+                    "temp": 55,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.033,
+                    "temp": 47,
+                    "fan": 83
+                },
+                {
+                    "hash": 28.999,
+                    "temp": 55,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.032,
+                    "temp": 58,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.005,
+                    "temp": 64,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.036,
+                    "temp": 63,
+                    "fan": 83
+                },
+                {
+                    "hash": 29.019,
+                    "temp": 59,
+                    "fan": 83
+                }
+            ]
+        },
+        {
+            "miner": "Miner22",
+            "MinerID": 1018,
+            "cards": 8,
+            "IPAddress": "10.0.1.65",
+            "maxhash": 249.176,
+            "hash": 248.435,
+            "Min30": 0,
+            "Hr2": 0,
+            "Hr6": 0,
+            "D1": 0,
+            "D2": 3,
+            "gpus": [
+                {
+                    "hash": 31.143,
+                    "temp": 52,
+                    "fan": 80
+                },
+                {
+                    "hash": 30.904,
+                    "temp": 42,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.135,
+                    "temp": 49,
+                    "fan": 80
+                },
+                {
+                    "hash": 30.931,
+                    "temp": 37,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.129,
+                    "temp": 52,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.152,
+                    "temp": 49,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.126,
+                    "temp": 53,
+                    "fan": 80
+                },
+                {
+                    "hash": 30.912,
+                    "temp": 43,
+                    "fan": 80
+                }
+            ]
+        },
+        {
+            "miner": "Miner23",
+            "MinerID": 1022,
+            "cards": 8,
+            "IPAddress": "10.0.1.113",
+            "maxhash": 250.432,
+            "hash": 247.806,
+            "Min30": 0,
+            "Hr2": 0,
+            "Hr6": 0,
+            "D1": 0,
+            "D2": 0,
+            "gpus": [
+                {
+                    "hash": 31.251,
+                    "temp": 43,
+                    "fan": 80
+                },
+                {
+                    "hash": 28.977,
+                    "temp": 53,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.254,
+                    "temp": 47,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.272,
+                    "temp": 47,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.257,
+                    "temp": 48,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.272,
+                    "temp": 46,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.252,
+                    "temp": 44,
+                    "fan": 80
+                },
+                {
+                    "hash": 31.268,
+                    "temp": 48,
+                    "fan": 80
+                }
+            ]
+        }
+    ]
+}
