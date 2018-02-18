@@ -1,4 +1,4 @@
-{ "type":"line", "data":{"datasets":[{ "label": "GPU0", "borderColor": "rgba(76,207,162, 1)","fill":false, "data":[{"x":"2018-02-17 23:00:00.0000000","y":28.954},{}]},{ "label": "GPU1", "borderColor": "rgba(175,160,15, 1)","fill":false, "data":[{"x":"2018-02-17 23:00:00.0000000","y":28.954},{}]}]}, "options": {
+{ "type":"line", "data":{"datasets":[{ "label": "GPU0", "borderColor": "rgba(74,140,210, 1)","fill":false, "data":[{"x":"2018-02-17 23:00:00.0000000","y":28.954},{}]},{ "label": "GPU1", "borderColor": "rgba(141,191,54, 1)","fill":false, "data":[{"x":"2018-02-17 23:00:00.0000000","y":28.954},{}]}]}, "options": {
 					"responsive": "true",
 					"title":{
 						"display":"true",
