@@ -2,7 +2,7 @@
 					"responsive": "true",
 					"title":{
 						"display":"true",
-						"text":"Miner31 - Rig GPU Performance: (Min: 20 H/s, Avg: 30 H/s, Max: 31 H/s) "
+						"text":"Miner31 - Rig GPU Performance: (Min: 28 H/s, Avg: 30 H/s, Max: 31 H/s) "
 					},
 					"scales": {
 						"xAxes": [{
