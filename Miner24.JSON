@@ -1,8 +1,8 @@
-{ "type":"line", "data":{"datasets":[{ "label": "GPU0", "borderColor": "rgba(46,54,128, 1)","fill":false, "data":[{"x":"2018-03-06 09:00:00.0000000","y":27.887},{}]},{ "label": "GPU1", "borderColor": "rgba(195,103,131, 1)","fill":false, "data":[{"x":"2018-03-06 09:00:00.0000000","y":28.968},{}]},{ "label": "GPU2", "borderColor": "rgba(227,62,224, 1)","fill":false, "data":[{"x":"2018-03-06 09:00:00.0000000","y":29.938},{}]},{ "label": "GPU3", "borderColor": "rgba(115,63,82, 1)","fill":false, "data":[{"x":"2018-03-06 09:00:00.0000000","y":27.318},{}]}]}, "options": {
+{ "type":"line", "data":{"datasets":[{ "label": "GPU0", "borderColor": "rgba(164,210,212, 1)","fill":false, "data":[{"x":"2018-03-06 09:00:00.0000000","y":27.887},{}]},{ "label": "GPU1", "borderColor": "rgba(60,177,49, 1)","fill":false, "data":[{"x":"2018-03-06 09:00:00.0000000","y":28.968},{}]},{ "label": "GPU2", "borderColor": "rgba(92,229,126, 1)","fill":false, "data":[{"x":"2018-03-06 09:00:00.0000000","y":29.938},{}]},{ "label": "GPU3", "borderColor": "rgba(159,144,64, 1)","fill":false, "data":[{"x":"2018-03-06 09:00:00.0000000","y":27.318},{}]}]}, "options": {
 					"responsive": "true",
 					"title":{
 						"display":"true",
-						"text":"Miner24 - Rig GPU Performance: (Min: 19 H/s, Avg: 29 H/s, Max: 31 H/s) "
+						"text":"Miner24 - Rig GPU Performance: (Min: 20 H/s, Avg: 30 H/s, Max: 31 H/s) "
 					},
 					"scales": {
 						"xAxes": [{
