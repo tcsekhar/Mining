@@ -1,8 +1,8 @@
-{ "type":"line", "data":{"datasets":[]}, "options": {
+{ "type":"line", "data":{"datasets":[{ "label": "GPU0", "borderColor": "rgba(41,235,21, 1)","fill":false, "data":[{"x":"2018-03-09 10:00:00.0000000","y":29.702},{}]},{ "label": "GPU1", "borderColor": "rgba(120,102,213, 1)","fill":false, "data":[{"x":"2018-03-09 10:00:00.0000000","y":30.441},{}]},{ "label": "GPU2", "borderColor": "rgba(165,155,247, 1)","fill":false, "data":[{"x":"2018-03-09 10:00:00.0000000","y":29.055},{}]},{ "label": "GPU3", "borderColor": "rgba(70,204,224, 1)","fill":false, "data":[{"x":"2018-03-09 10:00:00.0000000","y":29.710},{}]},{ "label": "GPU4", "borderColor": "rgba(54,91,244, 1)","fill":false, "data":[{"x":"2018-03-09 10:00:00.0000000","y":29.668},{}]}]}, "options": {
 					"responsive": "true",
 					"title":{
 						"display":"true",
-						"text":"Miner24 - Rig GPU Performance: (Min: 28 H/s, Avg: 30 H/s, Max: 49 H/s) "
+						"text":"Miner24 - Rig GPU Performance: (Min: 28 H/s, Avg: 30 H/s, Max: 50 H/s) "
 					},
 					"scales": {
 						"xAxes": [{
