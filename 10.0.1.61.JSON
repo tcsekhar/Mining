@@ -2,7 +2,7 @@
 					"responsive": "true",
 					"title":{
 						"display":"true",
-						"text":"10.0.1.61 - Rig GPU Performance: (Min: 0 H/s, Avg: 0 H/s, Max: 0 H/s) "
+						"text":"10.0.1.61 - Rig GPU Performance: (Min: 25 H/s, Avg: 29 H/s, Max: 31 H/s) "
 					},
 					"scales": {
 						"xAxes": [{
